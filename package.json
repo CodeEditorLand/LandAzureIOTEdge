@@ -507,7 +507,7 @@
 		"workspaceContains:**/deployment.template.json"
 	],
 	"dependencies": {
-		"axios": "1.8.1",
+		"axios": "1.8.2",
 		"body-parser": "1.20.3",
 		"dotenv": "16.4.7",
 		"download-git-repo": "3.0.2",
