@@ -545,7 +545,7 @@
 		"unzipper": "0.12.3"
 	},
 	"devDependencies": {
-		"@playform/build": "0.2.1",
+		"@playform/build": "0.2.2",
 		"@types/body-parser": "1.19.5",
 		"@types/dotenv": "8.2.3",
 		"@types/fs-extra": "11.0.4",
