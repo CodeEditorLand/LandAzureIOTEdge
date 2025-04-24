@@ -555,7 +555,7 @@
 		"@types/strip-json-comments": "3.0.0",
 		"@types/tmp": "0.2.6",
 		"@types/unzipper": "0.10.11",
-		"glob": "11.0.1",
+		"glob": "11.0.2",
 		"minimist": "1.2.8",
 		"sinon": "20.0.0",
 		"ts-loader": "9.5.2"
