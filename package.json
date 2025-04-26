@@ -530,7 +530,7 @@
 		"workspaceContains:**/deployment.template.json"
 	],
 	"dependencies": {
-		"axios": "1.8.4",
+		"axios": "1.9.0",
 		"body-parser": "2.2.0",
 		"dotenv": "16.5.0",
 		"download-git-repo": "3.0.2",
@@ -549,7 +549,7 @@
 		"@types/body-parser": "1.19.5",
 		"@types/dotenv": "8.2.3",
 		"@types/fs-extra": "11.0.4",
-		"@types/node": "22.14.1",
+		"@types/node": "22.15.2",
 		"@types/semver": "7.7.0",
 		"@types/sinon": "17.0.4",
 		"@types/strip-json-comments": "3.0.0",
