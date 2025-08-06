@@ -581,7 +581,7 @@
     "jsonc-parser": "^3.3.1",
     "semver": "^7.7.2",
     "strip-json-comments": "^5.0.2",
-    "tmp": "0.2.3",
+    "tmp": "0.2.4",
     "unzipper": "^0.12.3",
     "@vscode/extension-telemetry": "^1.0.0"
   },
