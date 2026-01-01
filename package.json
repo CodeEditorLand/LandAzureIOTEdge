@@ -570,7 +570,7 @@
     "@azure/arm-machinelearningservices": "^5.0.1",
     "@azure/arm-streamanalytics": "^4.1.0",
     "axios": "1.9.0",
-    "qs": "6.14.0",
+    "qs": "6.14.1",
     "body-parser": "^2.2.0",
     "dotenv": "^16.5.0",
     "download-git-repo": "^3.0.2",
